@@ -1,0 +1,300 @@
+6/22/2023 4:54:06 PM : Start
+
+6/22/2023 5:18:05 PM : ***************************************************************************************************************************
+
+
+6/22/2023 5:18:05 PM : ERRORLISTEMPLOYEE POSITION EN 
+
+
+6/22/2023 5:18:05 PM : EmplyeeCode:TCP25139	USERNAME:TCP25139	 Position EN: Null	 EmployeeName:วิชุดา ชื่นใจ	Wichuda chueanjai
+
+6/22/2023 5:19:23 PM : ***************************************************************************************************************************
+
+
+6/22/2023 5:19:23 PM : ERRORLISTEMPLOYEE POSITION EN 
+
+
+6/22/2023 5:19:23 PM : EmplyeeCode:81689	USERNAME:manipha.mf	 Position EN: Null	 EmployeeName:มณิภา แฟ้มครองขอม	Manipha Famkrongkhom
+
+6/22/2023 5:21:38 PM : ***************************************************************************************************************************
+
+
+6/22/2023 5:21:38 PM : ERRORLISTEMPLOYEE POSITION EN 
+
+
+6/22/2023 5:21:38 PM : EmplyeeCode:82043	USERNAME:montri.mk	 Position EN: Null	 EmployeeName:มนตรี คำพันธ์	Montri Khamphan
+
+6/22/2023 5:22:18 PM : ***************************************************************************************************************************
+
+
+6/22/2023 5:22:18 PM : ERRORLISTEMPLOYEE POSITION EN 
+
+
+6/22/2023 5:22:18 PM : EmplyeeCode:81985	USERNAME:pimprapa.pp	 Position EN: Null	 EmployeeName:พิมประภา พรมมา	Pimprapa Promma
+
+6/22/2023 5:22:38 PM : ***************************************************************************************************************************
+
+
+6/22/2023 5:22:38 PM : ERRORLISTEMPLOYEE POSITION EN 
+
+
+6/22/2023 5:22:38 PM : EmplyeeCode:TCP25959	USERNAME:sitanan.kun	 Position EN: Null	 EmployeeName:สิตานันท์ กันภัยเพื่อน	Sitanan Kunpaipiuen
+
+6/22/2023 5:23:21 PM : ***************************************************************************************************************************
+
+
+6/22/2023 5:23:21 PM : ERRORLISTEMPLOYEE DEPARTMENT CODE 
+
+
+6/22/2023 5:23:21 PM : EmplyeeCode:81940	USERNAME:79922	 Deparetment: Null	 EmployeeName:วรรณมงคล สังข์อินทร์	Wanmongkhol Sahngin
+
+6/22/2023 5:27:00 PM : ***************************************************************************************************************************
+
+
+6/22/2023 5:27:00 PM : ERRORLISTEMPLOYEE POSITION EN 
+
+
+6/22/2023 5:27:00 PM : EmplyeeCode:TCT0081	USERNAME:meiting.ou	 Position EN: Null	 EmployeeName:Meiting Ou	Meiting Ou
+
+6/22/2023 5:27:46 PM : ***************************************************************************************************************************
+
+
+6/22/2023 5:27:46 PM : ERRORLISTEMPLOYEE POSITION EN 
+
+
+6/22/2023 5:27:46 PM : EmplyeeCode:TC1923	USERNAME:sumittra.tho	 Position EN: Null	 EmployeeName:สุมิตรา ทองไกรแสน	Sumittra Thongkraisaen
+
+6/22/2023 5:30:10 PM : ***************************************************************************************************************************
+
+
+6/22/2023 5:30:10 PM : ERRORLISTEMPLOYEE POSITIONLEVEL  
+
+
+6/22/2023 5:30:10 PM : EmplyeeCode:81962	USERNAME:79802	 PositionLV: Null	 EmployeeName:สุรชัย แก่นแดง	Surachai Kandang
+
+6/22/2023 5:30:53 PM : ***************************************************************************************************************************
+
+
+6/22/2023 5:30:53 PM : ERRORLISTEMPLOYEE POSITION EN 
+
+
+6/22/2023 5:30:53 PM : EmplyeeCode:TCP26021	USERNAME:TCP26021	 Position EN: Null	 EmployeeName:พรประภา ไชยฉลาด	Pornprapa Chaichalad
+
+6/22/2023 5:31:08 PM : ***************************************************************************************************************************
+
+
+6/22/2023 5:31:08 PM : ERRORLISTEMPLOYEE POSITION EN 
+
+
+6/22/2023 5:31:08 PM : EmplyeeCode:VN0075	USERNAME:trang.le	 Position EN: Null	 EmployeeName:Trang Le	Trang Le
+
+6/22/2023 5:31:20 PM : ***************************************************************************************************************************
+
+
+6/22/2023 5:31:20 PM : ERRORLISTEMPLOYEE POSITION EN 
+
+
+6/22/2023 5:31:20 PM : EmplyeeCode:TCP25948	USERNAME:sayoompol.won	 Position EN: Null	 EmployeeName:สยุมพล วงศ์จา	Sayoompol Wongja
+
+6/22/2023 5:32:46 PM : ***************************************************************************************************************************
+
+
+6/22/2023 5:32:46 PM : ERRORLISTEMPLOYEE POSITION EN 
+
+
+6/22/2023 5:32:46 PM : EmplyeeCode:VN0073	USERNAME:linh.pham	 Position EN: Null	 EmployeeName:Linh Pham	Linh Pham
+
+6/22/2023 5:34:17 PM : ***************************************************************************************************************************
+
+
+6/22/2023 5:34:17 PM : ERRORLISTEMPLOYEE POSITION EN 
+
+
+6/22/2023 5:34:17 PM : EmplyeeCode:TC1917	USERNAME:TC1917	 Position EN: Null	 EmployeeName:พรรณภา เผ่าพันธ์	Pannapa Phaophan
+
+6/22/2023 5:35:56 PM : ***************************************************************************************************************************
+
+
+6/22/2023 5:35:56 PM : ERRORLISTEMPLOYEE POSITION EN 
+
+
+6/22/2023 5:35:56 PM : EmplyeeCode:81952	USERNAME:varanya.va	 Position EN: Null	 EmployeeName:วรัญญา อวีระพล	Varanya Averapol
+
+6/22/2023 5:36:22 PM : ***************************************************************************************************************************
+
+
+6/22/2023 5:36:22 PM : ERRORLISTEMPLOYEE POSITION EN 
+
+
+6/22/2023 5:36:22 PM : EmplyeeCode:TCP26019	USERNAME:TCP26019	 Position EN: Null	 EmployeeName:นัฐพล ศรีกระสัง	Natthaphon Srikrasang
+
+6/22/2023 5:36:25 PM : ***************************************************************************************************************************
+
+
+6/22/2023 5:36:25 PM : ERRORLISTEMPLOYEE POSITION EN 
+
+
+6/22/2023 5:36:25 PM : EmplyeeCode:82003	USERNAME:phannakan.pn	 Position EN: Null	 EmployeeName:พรรณกาญจน์ นิธิธนเวช	Phannakan Nithithanavech
+
+6/22/2023 5:37:42 PM : ***************************************************************************************************************************
+
+
+6/22/2023 5:37:42 PM : ERRORLISTEMPLOYEE POSITION EN 
+
+
+6/22/2023 5:37:42 PM : EmplyeeCode:82041	USERNAME:thongpoon.tj	 Position EN: Null	 EmployeeName:ทองพูน จิณารักษ์	Thongpoon Jinaruk
+
+6/22/2023 5:38:55 PM : ***************************************************************************************************************************
+
+
+6/22/2023 5:38:55 PM : ERRORLISTEMPLOYEE POSITION EN 
+
+
+6/22/2023 5:38:55 PM : EmplyeeCode:82076	USERNAME:pimpisut.pw	 Position EN: Null	 EmployeeName:พิมพ์พิสุทธิ์ วรรณรักษ์	Pimpisut Wannaruck
+
+6/22/2023 5:38:58 PM : ***************************************************************************************************************************
+
+
+6/22/2023 5:38:58 PM : ERRORLISTEMPLOYEE POSITION EN 
+
+
+6/22/2023 5:38:58 PM : EmplyeeCode:82088	USERNAME:setsaksit.ss	 Position EN: Null	 EmployeeName:เศรษฐ์ศักดิ์สิทธิ์ สืบสิงคาร	Setsaksit Suepsingkarn
+
+6/22/2023 5:40:17 PM : ***************************************************************************************************************************
+
+
+6/22/2023 5:40:17 PM : ERRORLISTEMPLOYEE EMPID
+
+
+6/22/2023 5:40:17 PM : EmplyeeCode:dong.nguyen	USERNAME:dong.nguyen	 EMAIL: dong.nguyen@vn.tcp.com	 EmployeeName:Dong Nguyen	Dong Nguyen
+
+6/22/2023 6:22:23 PM : ***************************************************************************************************************************
+
+
+6/22/2023 6:22:23 PM : ERRORLISTEMPLOYEE EMPID
+
+
+6/22/2023 6:22:23 PM : EmplyeeCode:Merawi.Sri	USERNAME:TCP26417	 EMAIL: TCP26417@tcp.com	 EmployeeName:เมรวี ศรีสุข	Merawi Srisuk
+
+6/22/2023 6:22:23 PM : ***************************************************************************************************************************
+
+
+6/22/2023 6:22:23 PM : ERRORLISTEMPLOYEE EMPID
+
+
+6/22/2023 6:22:23 PM : EmplyeeCode:Sasiwimon.P	USERNAME:TCP26418	 EMAIL: TCP26418@tcp.com	 EmployeeName:ศศิวิมล​ พวงผกา	Sasiwimon​ Puangpaka
+
+6/22/2023 6:22:23 PM : ***************************************************************************************************************************
+
+
+6/22/2023 6:22:23 PM : ERRORLISTEMPLOYEE EMPID
+
+
+6/22/2023 6:22:23 PM : EmplyeeCode:Naruemon.Hom	USERNAME:TCP26419	 EMAIL: TCP26419@tcp.com	 EmployeeName:นฤมล ห่อมลา	Naruemon Homla
+
+6/22/2023 6:22:23 PM : ***************************************************************************************************************************
+
+
+6/22/2023 6:22:23 PM : ERRORLISTEMPLOYEE EMPID
+
+
+6/22/2023 6:22:23 PM : EmplyeeCode:Duangchan.Pat	USERNAME:TCP26420	 EMAIL: TCP26420@tcp.com	 EmployeeName:ดวงจันทร์ ปะทา	Duangchan Pata
+
+6/22/2023 6:22:23 PM : ***************************************************************************************************************************
+
+
+6/22/2023 6:22:23 PM : ERRORLISTEMPLOYEE EMPID
+
+
+6/22/2023 6:22:23 PM : EmplyeeCode:Phanusorn.Cha	USERNAME:TCP26421	 EMAIL: TCP26421@tcp.com	 EmployeeName:ภาณุสร ชาญสมัย	Phanusorn Chansamai
+
+6/22/2023 6:22:23 PM : ***************************************************************************************************************************
+
+
+6/22/2023 6:22:23 PM : ERRORLISTEMPLOYEE EMPID
+
+
+6/22/2023 6:22:23 PM : EmplyeeCode:Sureerat.Phu	USERNAME:TCP26422	 EMAIL: TCP26422@tcp.com	 EmployeeName:สุรีรัตน์ พุ่มพิจิตร	Sureerat Phumpichit
+
+6/22/2023 6:22:23 PM : ***************************************************************************************************************************
+
+
+6/22/2023 6:22:23 PM : ERRORLISTEMPLOYEE EMPID
+
+
+6/22/2023 6:22:23 PM : EmplyeeCode:Chonthicha.Pho	USERNAME:TCP26423	 EMAIL: TCP26423@tcp.com	 EmployeeName:ชลธิชา โพธิ์อ่อง	Chonthicha Phoong
+
+6/22/2023 6:22:23 PM : ***************************************************************************************************************************
+
+
+6/22/2023 6:22:23 PM : ERRORLISTEMPLOYEE EMPID
+
+
+6/22/2023 6:22:23 PM : EmplyeeCode:Ratchaneekorn.Tho	USERNAME:TCP26424	 EMAIL: TCP26424@tcp.com	 EmployeeName:รัชนีกร ทองอยู่	Ratchaneekorn Thongyoo
+
+6/22/2023 6:22:24 PM : ***************************************************************************************************************************
+
+
+6/22/2023 6:22:24 PM : ERRORLISTEMPLOYEE EMPID
+
+
+6/22/2023 6:22:24 PM : EmplyeeCode:Panidchada.Sai	USERNAME:TCP26426	 EMAIL: TCP26426@tcp.com	 EmployeeName:ภานิชฎา ใส่หลง	Panidchada SaiIong
+
+6/22/2023 6:22:24 PM : ***************************************************************************************************************************
+
+
+6/22/2023 6:22:24 PM : ERRORLISTEMPLOYEE EMPID
+
+
+6/22/2023 6:22:24 PM : EmplyeeCode:Benchamat.Kae	USERNAME:TCP26427	 EMAIL: TCP26427@tcp.com	 EmployeeName:เบญจมาศ แก้วมณี	Benchamat Kaeomani
+
+6/22/2023 6:22:24 PM : ***************************************************************************************************************************
+
+
+6/22/2023 6:22:24 PM : ERRORLISTEMPLOYEE EMPID
+
+
+6/22/2023 6:22:24 PM : EmplyeeCode:Anchalee.Bib	USERNAME:TCP26428	 EMAIL: TCP26428@tcp.com	 EmployeeName:อัญชลี ใบบาง	Anchalee Bibang
+
+6/22/2023 6:22:24 PM : ***************************************************************************************************************************
+
+
+6/22/2023 6:22:24 PM : ERRORLISTEMPLOYEE EMPID
+
+
+6/22/2023 6:22:24 PM : EmplyeeCode:Worawan.Pai	USERNAME:TCP26429	 EMAIL: TCP26429@tcp.com	 EmployeeName:วรวรรณ ไพรเขียว	Worawan Paiikheaw
+
+6/22/2023 6:22:24 PM : ***************************************************************************************************************************
+
+
+6/22/2023 6:22:24 PM : ERRORLISTEMPLOYEE EMPID
+
+
+6/22/2023 6:22:24 PM : EmplyeeCode:Jarunipa.Mua	USERNAME:TCP26430	 EMAIL: TCP26430@tcp.com	 EmployeeName:จารุนิภา ม่วงอ่อน	Jarunipa Muangon
+
+6/22/2023 6:22:24 PM : ***************************************************************************************************************************
+
+
+6/22/2023 6:22:24 PM : ERRORLISTEMPLOYEE EMPID
+
+
+6/22/2023 6:22:24 PM : EmplyeeCode:Kamonchanok.Yal	USERNAME:TCP26431	 EMAIL: TCP26431@tcp.com	 EmployeeName:กมลชนก ยะลัม	Kamonchanok Yalum
+
+6/22/2023 6:22:24 PM : ***************************************************************************************************************************
+
+
+6/22/2023 6:22:24 PM : ERRORLISTEMPLOYEE EMPID
+
+
+6/22/2023 6:22:24 PM : EmplyeeCode:Aungkana.Dee	USERNAME:TCP26432	 EMAIL: TCP26432@tcp.com	 EmployeeName:อังคณา ดีสีทา	Aungkana Deeseeta
+
+6/22/2023 6:22:24 PM : ***************************************************************************************************************************
+
+
+6/22/2023 6:22:24 PM : ERRORLISTEMPLOYEE EMPID
+
+
+6/22/2023 6:22:24 PM : EmplyeeCode:walita8191@gmail.com	USERNAME:walita.wn	 EMAIL: 	 EmployeeName:วลิตา งามลุน	 
+
+6/22/2023 6:58:29 PM : Success
+

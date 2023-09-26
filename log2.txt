@@ -1,0 +1,36 @@
+9/6/2566 13:41:18 : Start
+
+9/6/2566 14:07:27 : ***************************************************************************************************************************
+
+
+9/6/2566 14:07:27 : ERRORLISTEMPLOYEE DEPARTMENT CODE 
+
+
+9/6/2566 14:07:27 : EmplyeeCode:81940	USERNAME:79922	 Deparetment: Null	 EmployeeName:วรรณมงคล สังข์อินทร์	Wanmongkhol Sahngin
+
+9/6/2566 14:10:48 : ***************************************************************************************************************************
+
+
+9/6/2566 14:10:48 : ERRORLISTEMPLOYEE POSITIONLEVEL  
+
+
+9/6/2566 14:10:48 : EmplyeeCode:81962	USERNAME:79802	 PositionLV: Null	 EmployeeName:สุรชัย แก่นแดง	Surachai Kandang
+
+9/6/2566 14:12:04 : ***************************************************************************************************************************
+
+
+9/6/2566 14:12:04 : ERRORLISTEMPLOYEE POSITIONLEVEL  
+
+
+9/6/2566 14:12:04 : EmplyeeCode:82020	USERNAME:pollawat.pw	 PositionLV: Null	 EmployeeName:พลวัต วงษ์สมุทร	Pollawat Wongsamut
+
+9/6/2566 14:16:04 : ***************************************************************************************************************************
+
+
+9/6/2566 14:16:04 : ERRORLISTEMPLOYEE DEPARTMENT CODE 
+
+
+9/6/2566 14:16:04 : EmplyeeCode:TCT0072	USERNAME:mengran.yin	 Deparetment: Null	 EmployeeName:Rui Zhao	Rui Zhao
+
+9/6/2566 15:21:26 : Success
+

@@ -1,0 +1,36 @@
+6/22/2023 10:06:52 AM : Start
+
+6/22/2023 10:09:35 AM : ***************************************************************************************************************************
+
+
+6/22/2023 10:09:35 AM : ERRORLISTEMPLOYEE DEPARTMENT CODE 
+
+
+6/22/2023 10:09:35 AM : EmplyeeCode:81940	USERNAME:79922	 Deparetment: Null	 EmployeeName:วรรณมงคล สังข์อินทร์	Wanmongkhol Sahngin
+
+6/22/2023 10:10:11 AM : ***************************************************************************************************************************
+
+
+6/22/2023 10:10:11 AM : ERRORLISTEMPLOYEE POSITIONLEVEL  
+
+
+6/22/2023 10:10:11 AM : EmplyeeCode:81962	USERNAME:79802	 PositionLV: Null	 EmployeeName:สุรชัย แก่นแดง	Surachai Kandang
+
+6/22/2023 10:10:24 AM : ***************************************************************************************************************************
+
+
+6/22/2023 10:10:24 AM : ERRORLISTEMPLOYEE POSITIONLEVEL  
+
+
+6/22/2023 10:10:24 AM : EmplyeeCode:82020	USERNAME:pollawat.pw	 PositionLV: Null	 EmployeeName:พลวัต วงษ์สมุทร	Pollawat Wongsamut
+
+6/22/2023 10:11:10 AM : ***************************************************************************************************************************
+
+
+6/22/2023 10:11:10 AM : ERRORLISTEMPLOYEE DEPARTMENT CODE 
+
+
+6/22/2023 10:11:10 AM : EmplyeeCode:TCT0072	USERNAME:mengran.yin	 Deparetment: Null	 EmployeeName:Rui Zhao	Rui Zhao
+
+6/22/2023 10:24:59 AM : Success
+

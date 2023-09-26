@@ -1,0 +1,42 @@
+8/17/2023 12:09:32 PM : Start
+
+8/17/2023 12:11:24 PM : ***************************************************************************************************************************
+
+
+8/17/2023 12:11:24 PM : ERRORLISTEMPLOYEE POSITION EN 
+
+
+8/17/2023 12:11:24 PM : EmplyeeCode:TCP25139	USERNAME:TCP25139	 Position EN: Null	 EmployeeName:วิชุดา ชื่นใจ	Wichuda chueanjai
+
+8/17/2023 12:11:36 PM : ***************************************************************************************************************************
+
+
+8/17/2023 12:11:36 PM : ERRORLISTEMPLOYEE POSITION EN 
+
+
+8/17/2023 12:11:36 PM : EmplyeeCode:81689	USERNAME:manipha.mf	 Position EN: Null	 EmployeeName:มณิภา แฟ้มครองขอม	Manipha Famkrongkhom
+
+8/17/2023 12:11:57 PM : ***************************************************************************************************************************
+
+
+8/17/2023 12:11:57 PM : ERRORLISTEMPLOYEE POSITION EN 
+
+
+8/17/2023 12:11:57 PM : EmplyeeCode:82043	USERNAME:montri.mk	 Position EN: Null	 EmployeeName:มนตรี คำพันธ์	Montri Khamphan
+
+8/17/2023 12:12:03 PM : ***************************************************************************************************************************
+
+
+8/17/2023 12:12:03 PM : ERRORLISTEMPLOYEE POSITION EN 
+
+
+8/17/2023 12:12:03 PM : EmplyeeCode:81985	USERNAME:pimprapa.pp	 Position EN: Null	 EmployeeName:พิมประภา พรมมา	Pimprapa Promma
+
+8/17/2023 12:12:06 PM : ***************************************************************************************************************************
+
+
+8/17/2023 12:12:06 PM : ERRORLISTEMPLOYEE POSITION EN 
+
+
+8/17/2023 12:12:06 PM : EmplyeeCode:TCP25959	USERNAME:sitanan.kun	 Position EN: Null	 EmployeeName:สิตานันท์ กันภัยเพื่อน	Sitanan Kunpaipiuen
+
