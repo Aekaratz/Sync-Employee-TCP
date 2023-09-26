@@ -26,12 +26,10 @@ namespace SyncDataApp
         static void Main(string[] args)
         {
 
-
             List<EmployeeDto> emp = new List<EmployeeDto>();
-            //List<DepartMentDto> dep = new List<DepartMentDto>();
             string Excelpath = ConfigurationManager.AppSettings["ExcelFile"];
 
-           
+
             try
             {
                 System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
@@ -197,7 +195,7 @@ namespace SyncDataApp
                                 else if (currentTab == 1)
                                 {
 
-                                    if (emp.Count>0)
+                                    if (emp.Count > 0)
                                     {
                                         Console.WriteLine($"Successfully in:{emp.Count.ToString()} Peple ");
                                     }
@@ -219,7 +217,7 @@ namespace SyncDataApp
                                     //เชคActive//InActive
 
                                     string[] keywordActive = { "true", "1", "Active" };
-                                    string[] keywordNotActive = { "false", "0", "InActive",""," " };
+                                    string[] keywordNotActive = { "false", "0", "InActive", "", " " };
                                     bool statusActive = false;
                                     if (keywordActive.Contains(STATUS))
                                     {
@@ -410,12 +408,7 @@ namespace SyncDataApp
                     Console.WriteLine($"item in :{emp.Count.ToString()}");
                     ManageEmployee(item);
                 }
-                //foreach (var item in dep)
-                //{
-                //    ManageDepartment(item);
-                //}
 
-                //UpdateDivisioninEMP.Updatedivision();
                 Console.WriteLine("success");
                 Logger.WriteLog("Success");
                 SentEmail.SentToEmail();
@@ -430,7 +423,6 @@ namespace SyncDataApp
             }
 
         }
-
         #region manage
         //static void ManageDivision(DivisionDto divisionDto)
         //{
@@ -496,7 +488,7 @@ namespace SyncDataApp
         //    }
         //    else if (division == null)
         //    {
-              
+
         //        data.DivisionId = null;
         //        data.DepartmentCode = departmentDto.DepartmentCode;
         //        data.NameTh = departmentDto.NameTh;
@@ -513,7 +505,7 @@ namespace SyncDataApp
 
         //    else if (parent == null)
         //    {
-               
+
         //        data.ParentId = null;
         //        data.DivisionId = division.DivisionId;
         //        data.DepartmentCode = departmentDto.DepartmentCode;
@@ -574,7 +566,6 @@ namespace SyncDataApp
 
 
         #endregion endmanage
-
 
         static void ManagePosition(PositionLavelDto positionDto)
         {
@@ -681,7 +672,7 @@ namespace SyncDataApp
                 {
                     //EmpLevel = employeeDto.EmpLevel,
                     //EmployeeLevel = positioLvs.PositionLevelId,
-                    DivisionId=departmentcode.DepartmentId,
+                    DivisionId = departmentcode.DepartmentId,
                     EmployeeCode = employeeDto.EmployeeCode,
                     Username = employeeDto.Username,
                     NameTh = employeeDto.NameTh,
@@ -730,11 +721,11 @@ namespace SyncDataApp
                 //data.EmpLevel = employeeDto.EmpLevel;
                 //data.EmployeeLevel = positioLvs.PositionLevelId;
                 if (departmentcode == null)
-                {   
+                {
                     Logger.WriteLog("***************************************************************************************************************************\n");
                     Logger.WriteLog($"ERRORLISTEMPLOYEE DEPARTMENT IN DATABASE NULL \n");
                     Logger.WriteLog($"EmplyeeCode:{data.EmployeeCode}\tUSERNAME:{data.Username}\t EmployeeName:{data.NameEn}\t{data.NameEn}\t departmemtId: Null Division : Null");
-                    data.DivisionId =null;
+                    data.DivisionId = null;
                     data.EmployeeCode = employeeDto.EmployeeCode;
                     data.Username = employeeDto.Username;
                     data.NameTh = employeeDto.NameTh;
@@ -774,7 +765,7 @@ namespace SyncDataApp
                     data.Lang = "EN";
                     data.SignPicPath = data.SignPicPath;
                 }
-            
+
             }
 
             db.SaveChanges();
